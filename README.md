@@ -15,7 +15,7 @@ Este repositório contém os materiais apresentados durante o seminário da disc
 
 # 📚 Conteúdo
 
-- Slides: [PDF](./apresentacao.pdf) e [Google Docs](https://docs.google.com/presentation/d/1z4Ipj07ZIg5OF1um33pjcBdVrMzXtxRW5vNqsVEfIhs/edit#slide=id.p)
+- Slides: [PDF](./apresentação/apresentacao.pdf) e [Google Docs](https://docs.google.com/presentation/d/1z4Ipj07ZIg5OF1um33pjcBdVrMzXtxRW5vNqsVEfIhs/edit#slide=id.p)
 - Códigos de Exemplo: [Conexão com DB](./scripts/dbConnect.js) e [Definindo Schemas](./scripts/schema.js)
 
 ##
